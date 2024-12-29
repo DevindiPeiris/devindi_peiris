@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/devindi_peiris/static/css/main.a870a2e6.css",
+    "main.js": "/devindi_peiris/static/js/main.e4921f55.js",
+    "static/media/P2.png": "/devindi_peiris/static/media/P2.fa3e1f2dfdc17cd6b280.png",
+    "static/media/P1.png": "/devindi_peiris/static/media/P1.45d1de0986f6454e8da6.png",
+    "static/media/me2.png": "/devindi_peiris/static/media/me2.2e59ea42dbb6d261d7fb.png",
+    "static/media/Devindi_Peiris-CV.pdf": "/devindi_peiris/static/media/Devindi_Peiris-CV.2b8e42b18a71b94ff365.pdf",
+    "static/media/P3.png": "/devindi_peiris/static/media/P3.4b405ff95731490be8d3.png",
+    "static/media/about2.png": "/devindi_peiris/static/media/about2.2dfbd06961525ffd3d0d.png",
+    "index.html": "/devindi_peiris/index.html",
+    "main.a870a2e6.css.map": "/devindi_peiris/static/css/main.a870a2e6.css.map",
+    "main.e4921f55.js.map": "/devindi_peiris/static/js/main.e4921f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a870a2e6.css",
+    "static/js/main.e4921f55.js"
+  ]
+}
